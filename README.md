@@ -1,3 +1,3 @@
 # TestGitHub
-TestGitHubWithGit
-Let's learn git basics together!
+Hello,TestGitHubWithGit
+Hello,Let's learn git basics together!
